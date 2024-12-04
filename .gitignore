@@ -1,0 +1,7 @@
+/build
+/vcpkg
+/CMakeCache.txt
+/CMakeFiles
+*.vcxproj
+*.user
+*.suo
